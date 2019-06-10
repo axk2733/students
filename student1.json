@@ -1,0 +1,15 @@
+
+{
+
+"Student_1": {
+	
+        "Name":"Argo",
+        "Age":19,
+        "Height":184,
+        "Weight": 93,
+        "Sex": "Male",
+        "Likes cats": True,
+        "Programming Languages": ["C", "C++", "Assembly"],
+},	
+
+},
